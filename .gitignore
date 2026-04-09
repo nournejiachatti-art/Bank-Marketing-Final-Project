@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+mlruns/
+
+# React
+node_modules/
+build/
+.env
+
+# Data
+*.csv
